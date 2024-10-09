@@ -147,4 +147,9 @@ dependencies:
       - urllib3==1.26.16
       - wandb==0.15.8
       - zipp==3.6.0
+      - matplotlib
+      - torch
+      - torchvision
+      - cython
+      - pycocotools
 prefix: /home/2so/anaconda3/envs/exlpose
